@@ -1,4 +1,1 @@
-My Awesome Book
-=======
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+본 문서는 방송 운영 시스템에 대한 전반적인 이해를 돕기위한 운영 매뉴얼 입니다.
